@@ -1,4 +1,4 @@
-inodes
+Check Inodes
 ======================
 
 <table border="0">
